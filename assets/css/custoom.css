@@ -1,0 +1,35 @@
+.service-bg {
+    background-image: url("../img/red.png");
+}
+
+.cpasmartlink-bg {
+    background-image: url("../img/red.png");
+}
+
+.StatisticsAre-bg {
+   background-image: url("../img/blue.png");
+}
+
+.pricing-bg {
+    background-image: url("../img/red.png");
+}
+
+.project-bg {
+    background-image: url("../img/red.png") !important;
+    background-repeat: no-repeat !important;
+    /*background-position-x: 45%;*/
+    background-position-y: 45%;
+    background-size: cover;
+}
+
+.partner-bg {
+    background-image: url("../img/red.png");
+}
+
+.zooffers-client-zone {
+    background-image: url("../img/red1.png");
+}
+
+.optimization-bg {
+    background-image: url("../img/red1.png");
+}
